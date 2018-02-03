@@ -237,7 +237,7 @@ main {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("https://static.pexels.com/photos/27451/pexels-photo-27451.jpg");
+    background-image: url("http://cdn-img.health.com/sites/default/files/styles/large_16_9/public/styles/main/public/gettyimages-151993684.jpg?itok=QejNB9K2");
 }
 .products_img2 {
     border-top: 1px solid #46A682;
@@ -246,7 +246,7 @@ main {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("https://static.pexels.com/photos/28367/pexels-photo.jpg");
+    background-image: url("http://www.peerlesscoffee.com/wp-content/uploads/2012/12/Coffee-DarkRoast.jpg");
 }
 .products_img2>.overlay {
     width: 100%;
